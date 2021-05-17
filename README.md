@@ -13,7 +13,7 @@
 
 >  각 이미지는 0부터 9까지의 label이 대응됩니다.
 
-* airplane : 0
+* :airplane: airplane : 0
 * automobile : 1
 * bird : 2
 * cat : 3
