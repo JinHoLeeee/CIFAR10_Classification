@@ -14,16 +14,16 @@
 >  각 이미지는 0부터 9까지의 label이 대응됩니다.
 
 * :airplane: airplane : 0
-* automobile : 1
-* bird : 2
-* cat : 3
-* deer : 4
-* dog : 5
+* :car: automobile : 1
+* :chicken: bird : 2
+* :cat: cat : 3
+* :goat: deer : 4
+* :dog: dog : 5
 
-* frog : 6
-* horse : 7
-* ship : 8
-* truck : 9
+* :frog: frog : 6
+* :horse: horse : 7
+* :ship: ship : 8
+* :truck: truck : 9
 
 ##### 
 
